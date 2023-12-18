@@ -1,0 +1,12 @@
+version 3 cpt EDX channel plan template file
+total number of channels listed = 10
+1 ,T ,217.6125 ,0.025 ,0 ,0 ,15 ,22 ,1 ,Digital Modulation technigue TBD
+2 ,T ,217.6625 ,0.025 ,0 ,0 ,15 ,22 ,2 ,Digital Modulation technigue TBD
+3 ,T ,217.7 ,0.025 ,0 ,0 ,15 ,22 ,3 ,Digital Modulation technigue TBD
+4 ,T ,217.725 ,0.025 ,0 ,0 ,15 ,22 ,4 ,Digital Modulation technigue TBD
+5 ,T ,217.7875 ,0.025 ,0 ,0 ,15 ,22 ,5 ,Digital Modulation technigue TBD
+6 ,T ,217.825 ,0.025 ,0 ,0 ,15 ,22 ,6 ,Digital Modulation technigue TBD
+7 ,T ,217.875 ,0.025 ,0 ,0 ,15 ,22 ,7 ,Digital Modulation technigue TBD
+8 ,T ,217.9125 ,0.025 ,0 ,0 ,15 ,22 ,8 ,Digital Modulation technigue TBD
+9 ,T ,217.95 ,0.025 ,0 ,0 ,15 ,22 ,9 ,Digital Modulation technigue TBD
+10 ,T ,217.975 ,0.025 ,0 ,0 ,15 ,22 ,10 ,Digital Modulation technigue TBD

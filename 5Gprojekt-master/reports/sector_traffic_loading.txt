@@ -1,0 +1,36 @@
+Traffic Loading Report
+----------------------
+
+Traffic source: Traffic from traffic database                     
+
+Circuit-switched blocking probability:   1.00%
+
+Circuit-switched average call duration:   1.76 minutes
+
+Percent of total traffic carried by group: 100.00 %
+
+          Circuit Traffic  Circuit Traffic   Number of    Channel  Current Blocking Packet Traffic
+Sector ID   (mErlangs)    Required Channels Channels Set Shortfall Probability (%)  (average mbps)
+--------- --------------- ----------------- ------------ --------- ---------------- --------------
+ABAA0001     12575.10             23             24          -1          0.29         12.5751
+ABAA0002      1499.85              6              8          -2          0.02          1.4999
+ABAA0003      4082.58             11             16          -5          0.00          4.0826
+ABAB0001       218.97              3              8          -5          0.00          0.2190
+ABAB0002      1649.93              6              8          -2          0.03          1.6499
+ABAC0001     45750.00             64             64           0          0.00         45.7500
+ABAC0002     90618.80            115            120          -5          0.00         90.6188
+ABAC0003      1853.89              7              8          -1          0.07          1.8539
+ABAD0001        38.99              2              8          -6          0.00          0.0390
+ABAD0002     29829.70             44             48          -4          0.00         29.8297
+ABAE0001       542.97              4              8          -4          0.00          0.5430
+ABAE0003     22084.64             35             40          -5          0.00         22.0846
+ABAF0001      7655.33             16             16           0          0.60          7.6553
+ABAF0002      1028.86              5              8          -3          0.00          1.0289
+ABAF0003      1709.71              6              8          -2          0.04          1.7097
+ABAG0002       785.88              4              8          -4          0.00          0.7859
+ABAG0003     16582.55             28             32          -4          0.05         16.5825
+ABAH0001      3650.47             10             16          -6          0.00          3.6505
+ABAH0002      3968.33             10             16          -6          0.00          3.9683
+ABAH0003       287.93              3              8          -5          0.00          0.2879
+ABAI0002      8591.22             17             24          -7          0.00          8.5912
+ABAI0003      2327.78              8              8           0          0.29          2.3278

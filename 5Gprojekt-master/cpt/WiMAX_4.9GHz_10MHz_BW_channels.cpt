@@ -1,0 +1,7 @@
+version 3 cpt EDX channel plan template file
+total number of channels listed = 5
+1 ,T ,4945 ,10 ,0 ,0 ,60000 ,20 ,1 ,OFDMA
+2 ,T ,4955 ,10 ,0 ,0 ,60000 ,20 ,2 ,OFDMA
+3 ,T ,4965 ,10 ,0 ,0 ,60000 ,20 ,3 ,OFDMA
+4 ,T ,4975 ,10 ,0 ,0 ,60000 ,20 ,4 ,OFDMA
+5 ,T ,4985 ,10 ,0 ,0 ,60000 ,20 ,5 ,OFDMA

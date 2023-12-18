@@ -1,0 +1,6 @@
+version 3 cpt EDX channel plan template file
+total number of channels listed = 4
+501, T, 722.9, 1.4, 0, 0, 4000.0, 10.0, 501, OFDMA channel LE1
+502, T, 724.3, 1.4, 0, 0, 4000.0, 10.0, 502, OFDMA channel LE2
+503, T, 725.7, 1.4, 0, 0, 4000.0, 10.0, 503, OFDMA channel LE3
+504, T, 727.1, 1.4, 0, 0, 4000.0, 10.0, 504, OFDMA channel LE4
