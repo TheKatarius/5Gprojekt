@@ -1,1 +1,1 @@
-Symulacja i kanały automatycznie ustawione. Została tabelka do wykonania, i rozbicie na 2 projekty. Można zrobić jeszcze zakres rozszerzony lub podpunkty na końcu pierwszej strony na dodatkowe punkty.
+Symulacja i kanały automatycznie ustawione. Została tabelka do wykonania, i rozbicie na 2 projekty. Można zrobić jeszcze zakres rozszerzony lub podpunkty na końcu pierwszej strony na dodatkowe punkty. Można się zapytać o Worst Channel.
