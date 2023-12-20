@@ -1,0 +1,144 @@
+Threshold % of grid points:  4
+ 2nd 3rd server neighbors included                
+Server - # of neighbors - # of grid points
+------------------------------------------
+ABAA0001    6     4236
+   ABAA0003       1243                      
+   ABAH0001        884                      
+   ABAE0003        447  ** not reciprocated 
+   ABAI0002        288  ** not reciprocated 
+   ABAC0001        255                      
+   ABAF0001        252  ** not reciprocated 
+ABAA0002    5     4525
+   ABAA0003       1940                      
+   ABAF0001        424  ** not reciprocated 
+   ABAD0002        281                      
+   ABAI0002        242  ** not reciprocated 
+   ABAB0002        230                      
+ABAA0003    6     5213
+   ABAA0001       1632                      
+   ABAE0003       1070                      
+   ABAA0002        768                      
+   ABAI0002        301  ** not reciprocated 
+   ABAB0002        247                      
+   ABAF0002        223                      
+ABAB0001    2     2264
+   ABAG0002        480                      
+   ABAB0002        305                      
+ABAB0002    6     2550
+   ABAD0001        494                      
+   ABAE0003        365                      
+   ABAA0002        189                      
+   ABAA0003        157                      
+   ABAE0001        155                      
+   ABAB0001        115                      
+ABAC0001    6     4760
+   ABAD0002       1549                      
+   ABAC0002        770                      
+   ABAG0003        540                      
+   ABAA0001        357                      
+   ABAI0002        328  ** not reciprocated 
+   ABAC0003        193                      
+ABAC0002    4    10439
+   ABAF0001       2044                      
+   ABAG0003       2040                      
+   ABAC0001       1731                      
+   ABAH0001       1616                      
+ABAC0003    8     1645
+   ABAC0001        359                      
+   ABAH0002        181                      
+   ABAF0002        158                      
+   ABAE0003        136  ** not reciprocated 
+   ABAC0002        129                      
+   ABAF0001        122  ** not reciprocated 
+   ABAF0003         72                      
+   ABAI0003         65  ** not reciprocated 
+ABAD0001    4     1811
+   ABAE0001        622                      
+   ABAD0002        332                      
+   ABAB0002        266                      
+   ABAA0002         75                      
+ABAD0002    6    13630
+   ABAF0001       3333                      
+   ABAC0001       2398                      
+   ABAG0003       1848                      
+   ABAA0002       1270                      
+   ABAI0002        974  ** not reciprocated 
+   ABAD0001        693                      
+ABAE0001    7     1265
+   ABAD0001        398                      
+   ABAE0003        160                      
+   ABAA0002        109                      
+   ABAD0002         99  ** not reciprocated 
+   ABAB0002         89  ** not reciprocated 
+   ABAI0002         66  ** not reciprocated 
+   ABAG0002         58  ** not reciprocated 
+ABAE0003    6     6539
+   ABAB0002       1050                      
+   ABAA0003        936                      
+   ABAI0003        871                      
+   ABAI0002        640                      
+   ABAE0001        434                      
+   ABAF0002        383                      
+ABAF0001    8     5768
+   ABAF0002       1087                      
+   ABAD0002        805                      
+   ABAH0002        478                      
+   ABAI0003        307                      
+   ABAC0002        287                      
+   ABAF0003        272                      
+   ABAG0003        252                      
+   ABAE0003        242  ** not reciprocated 
+ABAF0002    6     3789
+   ABAF0001       1354                      
+   ABAE0003        326                      
+   ABAC0003        284                      
+   ABAA0003        281                      
+   ABAI0002        228                      
+   ABAI0003        154  ** not reciprocated 
+ABAF0003    7     2131
+   ABAH0002        855                      
+   ABAI0003        295                      
+   ABAH0003        261                      
+   ABAH0001        204                      
+   ABAE0003        189  ** not reciprocated 
+   ABAC0003        100                      
+   ABAF0001         96                      
+ABAG0002    2     3687
+   ABAG0003       1145                      
+   ABAB0001        287                      
+ABAG0003    6     6114
+   ABAD0002       2634                      
+   ABAF0001        686                      
+   ABAC0002        636                      
+   ABAG0002        622                      
+   ABAC0001        336                      
+   ABAI0002        315  ** not reciprocated 
+ABAH0001    7     5359
+   ABAA0001       1254                      
+   ABAF0003       1013                      
+   ABAE0003        811  ** not reciprocated 
+   ABAG0003        632  ** not reciprocated 
+   ABAH0002        553  ** not reciprocated 
+   ABAI0003        335  ** not reciprocated 
+   ABAC0002        289                      
+ABAH0002    5     6045
+   ABAH0003       2025                      
+   ABAF0003       1601                      
+   ABAC0003        644                      
+   ABAI0003        598                      
+   ABAF0001        366                      
+ABAH0003    2     1007
+   ABAF0003        863                      
+   ABAH0002        132                      
+ABAI0002    3     6299
+   ABAI0003       3126                      
+   ABAF0002        551                      
+   ABAE0003        367                      
+ABAI0003    6     2603
+   ABAI0002       1231                      
+   ABAE0003        240                      
+   ABAF0001        225                      
+   ABAF0003        158                      
+   ABAH0002        146                      
+   ABAA0003        109  ** not reciprocated 

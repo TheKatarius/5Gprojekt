@@ -1,0 +1,6 @@
+version 3 cpt EDX channel plan template file
+total number of channels listed = 4
+301, D, 741.125, 1.25, 0, 0, 6780.0, 10.0, 301, OFDMA channel LC1
+302, D, 742.375, 1.25, 0, 0, 6780.0, 10.0, 302, OFDMA channel LC2
+303, D, 743.625, 1.25, 0, 0, 6780.0, 10.0, 303, OFDMA channel LC3
+304, D, 744.875, 1.25, 0, 0, 6780.0, 10.0, 304, OFDMA channel LC4
