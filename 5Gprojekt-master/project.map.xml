@@ -2,8 +2,8 @@
 <ViewFile Version="8.4.0">
  <Print paper_size="1" default_source="7" orientation="2" left_margin="500" right_margin="500" top_margin="750" bottom_margin="500" driver="winspool" device="hp deskjet 970c series" output="lpt1:"/>
  <Views size="1" last_active="0">
-  <View name="initial view" top="-23" left="-4" width="1479" height="915" show="true" maximized="true">
-   <ProjectedCoordinateSystem map_center_latitude="44.53928873646161" map_center_longitude="-122.622769417549" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
+  <View name="initial view" top="-23" left="-4" width="1316" height="1300" show="true" maximized="true">
+   <ProjectedCoordinateSystem map_center_latitude="44.58413560149877" map_center_longitude="-122.9561328111093" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
    <MapTitle title="EDX Wireless" subtitle="Smart Planning for Smart Networks" date="" exhibit="" use_cur_date="false"/>
    <RefGrid reference="grid lines" spacing="30&apos;" show_annotations="true">
     <PenDesc>
@@ -68,7 +68,7 @@
     <note text=""/>
     <note text=""/>
    </LegendOptions>
-   <MapPref measurement_system="Metric" origin="lower left corner" MapScale="1:307255" view_elevation_angle="90.0" view_azimuth="180.0" vert_scale_mult="1.0" base_height="0.0" light_elevation_angle="20.0" light_azimuth="315.0" use_directional_light="false" cursor_height="0.0" show_legend="false" power_display_units="dBW" antenna_gain_type="dBi" align_map_center_with_study_grid="false" display_as_2D="true">
+   <MapPref measurement_system="Metric" origin="lower left corner" MapScale="1:212443" view_elevation_angle="90.0" view_azimuth="180.0" vert_scale_mult="1.0" base_height="0.0" light_elevation_angle="20.0" light_azimuth="315.0" use_directional_light="false" cursor_height="0.0" show_legend="false" power_display_units="dBW" antenna_gain_type="dBi" align_map_center_with_study_grid="false" display_as_2D="true">
     <BorderPenDesc>
      <PenDesc width="0.7" style="solid">
       <Color r="0" g="0" b="0"/>
@@ -76,7 +76,7 @@
     </BorderPenDesc>
    </MapPref>
    <AreaStudies last_selected_index="1" ui_track_index="0" size="1">
-    <AreaStudy group_identifier="Master group" second_group_identifier="Master group" group_id2="0" area_study_type="12" plot_type="flat grid" calc_method="radial line" noise_interference_type="noise and interference" calculate_study="true" use_uplink_independent_calc="false" notes="" receive_unit_id="0" study_display_type="composite grid" FCC_show_contour_labels="true" FCC_show_contour_txnames="true" FCC_contour_line_width="0.5" signal_contour_line_width="0.5" radial_line_width="0.5" effective_display_height="0.0" effective_display_height_use_mobile_height="false" grid_edge_display="1.0" grid_lines_signal_only="false" signal_level_display_threshold="-103.0" show_remote_on_legend_="true" control_mls_using_approx_range="false" control_using_sector_study_radius="false" include_interfering_remote="true" include_base_to_base_interference="false" maximum_number_interfering_sectors="6" link_reliability_name="Reliability Method 1" use_MIMO_adjustments="true" fresnel_zone_clearance="0.6" use_filter_polygon="false" filter_file_name="" use_channel_color_mls="false">
+    <AreaStudy group_identifier="Master group" second_group_identifier="Master group" group_id2="0" area_study_type="30" plot_type="flat grid" calc_method="radial line" noise_interference_type="noise and interference" calculate_study="true" use_uplink_independent_calc="false" notes="" receive_unit_id="0" study_display_type="color gradient" FCC_show_contour_labels="true" FCC_show_contour_txnames="true" FCC_contour_line_width="0.5" signal_contour_line_width="0.5" radial_line_width="0.5" effective_display_height="0.0" effective_display_height_use_mobile_height="false" grid_edge_display="1.0" grid_lines_signal_only="false" signal_level_display_threshold="-103.0" show_remote_on_legend_="true" control_mls_using_approx_range="false" control_using_sector_study_radius="false" include_interfering_remote="true" include_base_to_base_interference="false" maximum_number_interfering_sectors="6" link_reliability_name="Reliability Method 1" use_MIMO_adjustments="true" fresnel_zone_clearance="0.6" use_filter_polygon="false" filter_file_name="" use_channel_color_mls="false">
      <FCC_contour_label_font>
       <Font font_name="Arial" point_size="8" orientation_angle="0.0" style_flags_="0">
        <fore_color>
@@ -85,56 +85,48 @@
       </Font>
      </FCC_contour_label_font>
      <area_studies_flat_grid_color>
-      <AnnotatedColorMap size="6">
+      <AnnotatedColorMap size="5">
        <Annotation desc=""/>
        <Annotation desc=""/>
        <Annotation desc=""/>
        <Annotation desc=""/>
        <Annotation desc=""/>
-       <Annotation desc=""/>
-       <ColorMap size="6">
-        <ColorMapEntry val="-60.0" r="255" g="255" b="0" symbol="SOLID"/>
-        <ColorMapEntry val="-70.0" r="255" g="0" b="0" symbol="SOLID"/>
-        <ColorMapEntry val="-80.0" r="0" g="0" b="255" symbol="SOLID"/>
-        <ColorMapEntry val="-90.0" r="0" g="255" b="255" symbol="SOLID"/>
-        <ColorMapEntry val="-100.0" r="128" g="255" b="128" symbol="SOLID"/>
-        <ColorMapEntry val="-100.0" r="128" g="128" b="128" symbol="SOLID"/>
+       <ColorMap size="5">
+        <ColorMapEntry val="25.0" r="255" g="255" b="0" symbol="SOLID"/>
+        <ColorMapEntry val="15.0" r="255" g="0" b="0" symbol="SOLID"/>
+        <ColorMapEntry val="10.0" r="0" g="0" b="255" symbol="SOLID"/>
+        <ColorMapEntry val="5.0" r="0" g="255" b="0" symbol="SOLID"/>
+        <ColorMapEntry val="5.0" r="0" g="255" b="255" symbol="SOLID"/>
        </ColorMap>
       </AnnotatedColorMap>
      </area_studies_flat_grid_color>
      <area_studies_contour_color>
-      <AnnotatedColorMap size="6">
+      <AnnotatedColorMap size="5">
        <Annotation desc=""/>
        <Annotation desc=""/>
        <Annotation desc=""/>
        <Annotation desc=""/>
        <Annotation desc=""/>
-       <Annotation desc=""/>
-       <ColorMap size="6">
-        <ColorMapEntry val="-60.0" r="255" g="255" b="0" symbol="SOLID"/>
-        <ColorMapEntry val="-70.0" r="255" g="0" b="0" symbol="SOLID"/>
-        <ColorMapEntry val="-80.0" r="0" g="0" b="255" symbol="SOLID"/>
-        <ColorMapEntry val="-90.0" r="0" g="255" b="255" symbol="SOLID"/>
-        <ColorMapEntry val="-100.0" r="128" g="255" b="128" symbol="SOLID"/>
-        <ColorMapEntry val="-100.0" r="128" g="128" b="128" symbol="SOLID"/>
+       <ColorMap size="5">
+        <ColorMapEntry val="25.0" r="255" g="255" b="0" symbol="SOLID"/>
+        <ColorMapEntry val="15.0" r="255" g="0" b="0" symbol="SOLID"/>
+        <ColorMapEntry val="10.0" r="0" g="0" b="255" symbol="SOLID"/>
+        <ColorMapEntry val="5.0" r="0" g="255" b="0" symbol="SOLID"/>
+        <ColorMapEntry val="5.0" r="0" g="255" b="255" symbol="SOLID"/>
        </ColorMap>
       </AnnotatedColorMap>
      </area_studies_contour_color>
      <area_studies_gradient_color>
-      <AnnotatedColorMap size="6">
+      <AnnotatedColorMap size="5">
        <Annotation desc=""/>
        <Annotation desc=""/>
        <Annotation desc=""/>
        <Annotation desc=""/>
        <Annotation desc=""/>
-       <Annotation desc=""/>
-       <ColorMap size="6">
-        <ColorMapEntry val="-60.0" r="255" g="255" b="0" symbol="SOLID"/>
-        <ColorMapEntry val="-70.0" r="255" g="0" b="0" symbol="SOLID"/>
-        <ColorMapEntry val="-80.0" r="0" g="0" b="255" symbol="SOLID"/>
-        <ColorMapEntry val="-90.0" r="0" g="255" b="255" symbol="SOLID"/>
-        <ColorMapEntry val="-100.0" r="128" g="255" b="128" symbol="SOLID"/>
-        <ColorMapEntry val="-100.0" r="128" g="128" b="128" symbol="SOLID"/>
+       <ColorMap size="3">
+        <ColorMapEntry val="13.0" r="0" g="255" b="0" symbol="SOLID"/>
+        <ColorMapEntry val="9.0" r="255" g="255" b="0" symbol="SOLID"/>
+        <ColorMapEntry val="9.0" r="255" g="0" b="0" symbol="SOLID"/>
        </ColorMap>
       </AnnotatedColorMap>
      </area_studies_gradient_color>
@@ -145,7 +137,7 @@
    </RouteStudies>
    <MultipointStudies last_selected_index="1" ui_track_index="-1" use_assigned_server="true" size="0"/>
    <MapLayers no_of_layers="9">
-    <StudyGrid latitude="44.5487728834085" longitude="-122.8850558830335" width="50.0" height="50.0" point_spacing="0.15" auto_grid="false" show_grid_boundary_on_map="true">
+    <StudyGrid latitude="44.55044598813774" longitude="-122.9162921057198" width="50.0" height="50.0" point_spacing="0.15" auto_grid="false" show_grid_boundary_on_map="true">
      <study_grid_boundary_pen>
       <PenDesc width="2.0" style="solid">
        <Color r="0" g="0" b="0"/>
@@ -313,7 +305,7 @@
      </height_color>
      <WallColors size="0"/>
     </BuildingFloorplanData>
-    <TxSiteStyle status_type="show all" marker_type="sectorized" label_type="use site name" traffic_type="Average predicted data" icon_fill_type="Fill per color" show_traffic="false" show_channels="false" show_sector_range="false" show_size_based_on_height="false" show_only_active_in_group="false" height_meter_to_mm="0.2" system="0" tx_group="Master group">
+    <TxSiteStyle status_type="show all" marker_type="sectorized" label_type="use site name" traffic_type="Average predicted data" icon_fill_type="Fill per color" show_traffic="false" show_channels="true" show_sector_range="false" show_size_based_on_height="false" show_only_active_in_group="false" height_meter_to_mm="0.2" system="0" tx_group="Master group">
      <channel_color>
       <ColorMapIndex index="0"/>
      </channel_color>
@@ -418,8 +410,13 @@
       <MaplayerInfo/>
      </MapLayer>
     </MapLayerTypeAndLayer>
+    <MapLayerTypeAndLayer layer_type="traffic data">
+     <MapLayer description="" show="true" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
+      <MaplayerInfo/>
+     </MapLayer>
+    </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="signal levels: 0">
-     <MapLayer description="Received power at best base from remote" show="true" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
+     <MapLayer description="Worst channel C/(I+N) for multiple-channel systems" show="true" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
       <MaplayerInfo area_study_index="0"/>
      </MapLayer>
     </MapLayerTypeAndLayer>
@@ -429,11 +426,6 @@
      </MapLayer>
     </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="EDX graphic objects">
-     <MapLayer description="" show="false" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
-      <MaplayerInfo/>
-     </MapLayer>
-    </MapLayerTypeAndLayer>
-    <MapLayerTypeAndLayer layer_type="traffic data">
      <MapLayer description="" show="true" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
       <MaplayerInfo/>
      </MapLayer>
