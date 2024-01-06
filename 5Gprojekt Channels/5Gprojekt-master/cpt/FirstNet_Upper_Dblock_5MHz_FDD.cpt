@@ -1,0 +1,6 @@
+version 3 cpt EDX channel plan template file
+total number of channels listed = 4
+650 ,U ,760.5 ,5 ,0 ,0 ,13300 ,20 ,650 ,OFDMA channel Public Safety D-block channel A
+650 ,D ,790.5 ,5 ,0 ,0 ,20000 ,20 ,650 ,OFDMA channel Public Safety D-block channel A
+651 ,U ,765.5 ,5 ,0 ,0 ,13300 ,20 ,651 ,OFDMA channel Public Safety D-block channel B
+651 ,D ,795.5 ,5 ,0 ,0 ,20000 ,20 ,651 ,OFDMA channel Public Safety D-block channel B

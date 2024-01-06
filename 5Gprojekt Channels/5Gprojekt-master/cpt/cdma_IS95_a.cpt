@@ -1,0 +1,12 @@
+version 3 cpt EDX channel plan template file
+total number of channels listed = 10
+1 ,D ,869.625 ,1.25 ,0 ,0 ,9600,15 ,1,IS-95 CDMA A Chan 1
+2 ,D ,870.875 ,1.25 ,0 ,0 ,9600,15 ,1,IS-95 CDMA A Chan 2
+3 ,D ,872.125 ,1.25 ,0 ,0 ,9600,15 ,1,IS-95 CDMA A Chan 3
+4 ,D ,873.375 ,1.25 ,0 ,0 ,9600,15 ,1,IS-95 CDMA A Chan 4
+5 ,D ,874.625 ,1.25 ,0 ,0 ,9600,15 ,1,IS-95 CDMA A Chan 5
+6 ,D ,875.875 ,1.25 ,0 ,0 ,9600,15 ,1,IS-95 CDMA A Chan 6
+7 ,D ,877.125 ,1.25 ,0 ,0 ,9600,15 ,1,IS-95 CDMA A Chan 7
+8 ,D ,878.375 ,1.25 ,0 ,0 ,9600,15 ,1,IS-95 CDMA A Chan 8
+9 ,D ,879.625 ,1.25 ,0 ,0 ,9600,15 ,1,IS-95 CDMA A Chan 9
+10,D ,890.625 ,1.25 ,0 ,0 ,9600,15 ,1,IS-95 CDMA A Chan 10

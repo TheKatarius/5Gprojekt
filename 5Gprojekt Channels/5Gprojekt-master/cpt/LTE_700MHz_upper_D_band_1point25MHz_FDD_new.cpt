@@ -1,0 +1,10 @@
+version 3 cpt EDX channel plan template file
+total number of channels listed = 6
+1, D, 788.625, 1.25, 0, 0, 6780.0, 10.0, 5, OFDMA channel UD1
+2, D, 789.875, 1.25, 0, 0, 6780.0, 10.0, 6, OFDMA channel UD2
+3, D, 791.125, 1.25, 0, 0, 6780.0, 10.0, 7, OFDMA channel UD3
+4, D, 792.375, 1.25, 0, 0, 6780.0, 10.0, 8, OFDMA channel UD4
+5, U, 758.625, 1.25, 0, 0, 6780.0, 10.0, 1, SC-FDMA channel UD1
+6, U, 759.875, 1.25, 0, 0, 6780.0, 10.0, 2, SC-FDMA channel UD2
+7, U, 761.125, 1.25, 0, 0, 6780.0, 10.0, 3, SC-FDMA channel UD3
+8, U, 762.375, 1.25, 0, 0, 6780.0, 10.0, 4, SC-FDMA channel UD4

@@ -1,0 +1,18 @@
+version 3 cpt EDX channel plan template file
+total number of channels listed = 14
+1, D, 2110.625, 1.25, 0, 0, 6780.0, 10.0, 9, OFDMA channel A1
+2, D, 2111.875, 1.25, 0, 0, 6780.0, 10.0, 10, OFDMA channel A2
+3, D, 2113.125, 1.25, 0, 0, 6780.0, 10.0, 11, OFDMA channel A3
+4, D, 2114.375, 1.25, 0, 0, 6780.0, 10.0, 12, OFDMA channel A4
+5, D, 2115.625, 1.25, 0, 0, 6780.0, 10.0, 13, OFDMA channel A5
+6, D, 2116.875, 1.25, 0, 0, 6780.0, 10.0, 14, OFDMA channel A6
+7, D, 2118.125, 1.25, 0, 0, 6780.0, 10.0, 15, OFDMA channel A7
+8, D, 2119.375, 1.25, 0, 0, 6780.0, 10.0, 16, OFDMA channel A8
+9, U, 1710.625, 1.25, 0, 0, 6780.0, 10.0, 1, SC-FDMA channel A1
+10, U, 1711.875, 1.25, 0, 0, 6780.0, 10.0, 2, SC-FDMA channel A2
+11, U, 1713.125, 1.25, 0, 0, 6780.0, 10.0, 3, SC-FDMA channel A3
+12, U, 1714.375, 1.25, 0, 0, 6780.0, 10.0, 4, SC-FDMA channel A4
+13, U, 1715.625, 1.25, 0, 0, 6780.0, 10.0, 5, SC-FDMA channel A5
+14, U, 1716.875, 1.25, 0, 0, 6780.0, 10.0, 6, SC-FDMA channel A6
+15, U, 1718.125, 1.25, 0, 0, 6780.0, 10.0, 7, SC-FDMA channel A7
+16, U, 1719.375, 1.25, 0, 0, 6780.0, 10.0, 8, SC-FDMA channel A8
