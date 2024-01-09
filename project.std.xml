@@ -403,7 +403,7 @@
  <BestLOSBuildings ignore_building_edge_shadow="true" use_building_vector_database="false" percent_building_service_objective="99.0" required_fresnel_zone_clearance="1.0" maximum_of_hub_locations_to_be_found="10" cpe_type_index="0">
   <availiable_buildings no_of_avail="0"/>
  </BestLOSBuildings>
- <GraphicObjectList number="1">
+ <GraphicObjectList number="2">
   <GraphicObject graphic_type="14">
    <ServiceAreaBoundaryObject Level_Type="2" GUID="a1401d84-4123-456c-a3c3-a0e1715cac94" ParentGUID="">
     <PolygonObject UseFillPattern="false">
@@ -424,6 +424,32 @@
         <LatLongPair latitude="44.28788567843063" longitude="-122.5300975234013"/>
         <LatLongPair latitude="44.73699808495039" longitude="-122.5305874404047"/>
         <LatLongPair latitude="44.73704236501748" longitude="-123.1636541558426"/>
+       </LatLongTypeList>
+      </GraphicalObject>
+     </PolylineObject>
+    </PolygonObject>
+   </ServiceAreaBoundaryObject>
+  </GraphicObject>
+  <GraphicObject graphic_type="14">
+   <ServiceAreaBoundaryObject Level_Type="2" GUID="ca0a915c-9f71-4520-bcef-8e8cca32a6d9" ParentGUID="">
+    <PolygonObject UseFillPattern="false">
+     <PolygonObjectFill>
+      <FillDesc fill_style="solid">
+       <Color r="0" g="0" b="0"/>
+      </FillDesc>
+     </PolygonObjectFill>
+     <PolylineObject>
+      <PenDesc width="0.0" style="solid">
+       <Color r="0" g="0" b="0"/>
+      </PenDesc>
+      <GraphicalObject Id="" IndexForLabel="0" width="0.0">
+       <Color r="0" g="255" b="0"/>
+       <LatLongTypeList number="5">
+        <LatLongPair latitude="44.77545487940359" longitude="-123.2352296337799"/>
+        <LatLongPair latitude="44.32513190829145" longitude="-123.2333069302821"/>
+        <LatLongPair latitude="44.32514269311447" longitude="-122.6017127608118"/>
+        <LatLongPair latitude="44.77509153032696" longitude="-122.6019601387899"/>
+        <LatLongPair latitude="44.77545487940359" longitude="-123.2352296337799"/>
        </LatLongTypeList>
       </GraphicalObject>
      </PolylineObject>
@@ -2401,54 +2427,60 @@
  </MultipointStudyLayout>
  <NeighborListGeneration max_neighbors="4" include_2nd_servers="true" include_3rd_servers="true" exclude_co_channel_neighbors="true" group_identifier="Master group" server_selection="PowerReceived" copy_predicted_to_actual="false" remote_unit_ID="0"/>
  <TxGroups size="1">
-  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="47">
-   <TX_ID id="ABAA0001" active="false"/>
+  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="53">
+   <TX_ID id="ABAA0001" active="true"/>
+   <TX_ID id="ABAA0002" active="true"/>
    <TX_ID id="ABAB0001" active="true"/>
-   <TX_ID id="ABAC0001" active="false"/>
+   <TX_ID id="ABAC0001" active="true"/>
    <TX_ID id="ABAC0002" active="true"/>
-   <TX_ID id="ABAC0003" active="false"/>
+   <TX_ID id="ABAC0003" active="true"/>
    <TX_ID id="ABAD0001" active="true"/>
    <TX_ID id="ABAD0002" active="true"/>
-   <TX_ID id="ABAD0003" active="true"/>
-   <TX_ID id="ABAE0003" active="true"/>
+   <TX_ID id="ABAE0001" active="true"/>
+   <TX_ID id="ABAE0002" active="true"/>
    <TX_ID id="ABAF0001" active="true"/>
    <TX_ID id="ABAF0002" active="true"/>
    <TX_ID id="ABAF0003" active="true"/>
-   <TX_ID id="ABAG0002" active="true"/>
-   <TX_ID id="ABAG0003" active="true"/>
    <TX_ID id="ABAH0001" active="true"/>
    <TX_ID id="ABAH0002" active="true"/>
-   <TX_ID id="ABAI0001" active="false"/>
-   <TX_ID id="ABAI0003" active="false"/>
+   <TX_ID id="ABAI0001" active="true"/>
+   <TX_ID id="ABAI0002" active="true"/>
    <TX_ID id="ABAJ0001" active="true"/>
    <TX_ID id="ABAJ0002" active="true"/>
+   <TX_ID id="ABAJ0003" active="true"/>
+   <TX_ID id="ABAK0001" active="true"/>
    <TX_ID id="ABAK0002" active="true"/>
+   <TX_ID id="ABAL0001" active="true"/>
    <TX_ID id="ABAL0002" active="true"/>
+   <TX_ID id="ABAL0003" active="true"/>
+   <TX_ID id="ABAM0001" active="true"/>
    <TX_ID id="ABAM0002" active="true"/>
-   <TX_ID id="ABAM0003" active="true"/>
    <TX_ID id="ABAN0001" active="true"/>
    <TX_ID id="ABAN0002" active="true"/>
-   <TX_ID id="ABAN0003" active="false"/>
    <TX_ID id="ABAO0001" active="true"/>
    <TX_ID id="ABAO0002" active="true"/>
    <TX_ID id="ABAP0001" active="true"/>
    <TX_ID id="ABAP0002" active="true"/>
+   <TX_ID id="ABAP0003" active="true"/>
    <TX_ID id="ABAQ0001" active="true"/>
    <TX_ID id="ABAQ0002" active="true"/>
+   <TX_ID id="ABAQ0003" active="true"/>
    <TX_ID id="ABAR0001" active="true"/>
-   <TX_ID id="ABAS0001" active="true"/>
-   <TX_ID id="ABAT0001" active="false"/>
-   <TX_ID id="ABAT0002" active="false"/>
-   <TX_ID id="ABAT0003" active="false"/>
-   <TX_ID id="ABAU0001" active="false"/>
+   <TX_ID id="ABAR0002" active="true"/>
+   <TX_ID id="ABAT0001" active="true"/>
+   <TX_ID id="ABAT0002" active="true"/>
+   <TX_ID id="ABAU0001" active="true"/>
    <TX_ID id="ABAU0002" active="true"/>
-   <TX_ID id="ABAV0001" active="false"/>
-   <TX_ID id="ABAV0002" active="false"/>
-   <TX_ID id="ABAW0001" active="true"/>
-   <TX_ID id="ABAW0002" active="true"/>
-   <TX_ID id="ABAW0003" active="false"/>
-   <TX_ID id="ABAX0001" active="false"/>
-   <TX_ID id="ABAX0002" active="false"/>
+   <TX_ID id="ABAU0003" active="true"/>
+   <TX_ID id="ABAV0001" active="true"/>
+   <TX_ID id="ABAV0002" active="true"/>
+   <TX_ID id="ABAV0003" active="true"/>
+   <TX_ID id="ABBA0001" active="true"/>
+   <TX_ID id="ABBA0002" active="true"/>
+   <TX_ID id="ABBB0001" active="true"/>
+   <TX_ID id="ABBB0002" active="true"/>
+   <TX_ID id="ABBD0001" active="true"/>
+   <TX_ID id="ABBD0002" active="true"/>
   </TxGroup>
  </TxGroups>
  <LinkGroups size="1">
